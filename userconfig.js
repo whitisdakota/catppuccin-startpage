@@ -23,8 +23,8 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "bluesky",
+              url: "https://bsky.app/",
               icon: "droplet-bolt",
               icon_color: palette.green,
             },
